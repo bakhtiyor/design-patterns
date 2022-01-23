@@ -1,0 +1,16 @@
+{
+    "name": "bakhtiyor/refactoring-guru",
+    "description": "Using Design Pattern in PHP. Credit: https://refactoring.guru/ru/design-patterns",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bakhtiyor Bahritidinov",
+            "email": "i@bakhtiyor.tj"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "DesignPatterns"
+        ]
+    }
+}
