@@ -3,6 +3,8 @@
 - [Singleton Pattern](https://refactoring.guru/ru/design-patterns/singleton)
 - [Factory Pattern](https://refactoring.guru/ru/design-patterns/factory-method)
 - [Adapter Pattern](https://refactoring.guru/ru/design-patterns/adapter)
+- [Iterator Pattern](https://refactoring.guru/ru/design-patterns/iterator)
+- [Facade Pattern](https://refactoring.guru/ru/design-patterns/facade)
 
 ## Installation
 - `git clone https://github.com/bakhtiyor/design-patterns design-patterns`
