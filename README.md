@@ -5,6 +5,7 @@
 - [Adapter Pattern](https://refactoring.guru/ru/design-patterns/adapter)
 - [Iterator Pattern](https://refactoring.guru/ru/design-patterns/iterator)
 - [Facade Pattern](https://refactoring.guru/ru/design-patterns/facade)
+- [Observer Pattern](https://refactoring.guru/ru/design-patterns/observer)
 
 ## Installation
 - `git clone https://github.com/bakhtiyor/design-patterns design-patterns`
