@@ -1,11 +1,12 @@
 ## Implemented Design Patterns
 
-- [Singleton Pattern](https://refactoring.guru/ru/design-patterns/singleton)
-- [Factory Pattern](https://refactoring.guru/ru/design-patterns/factory-method)
-- [Adapter Pattern](https://refactoring.guru/ru/design-patterns/adapter)
-- [Iterator Pattern](https://refactoring.guru/ru/design-patterns/iterator)
-- [Facade Pattern](https://refactoring.guru/ru/design-patterns/facade)
-- [Observer Pattern](https://refactoring.guru/ru/design-patterns/observer)
+- [Singleton Design Pattern](https://refactoring.guru/ru/design-patterns/singleton)
+- [Factory Design Pattern](https://refactoring.guru/ru/design-patterns/factory-method)
+- [Adapter Design Pattern](https://refactoring.guru/ru/design-patterns/adapter)
+- [Iterator Design Pattern](https://refactoring.guru/ru/design-patterns/iterator)
+- [Facade Design Pattern](https://refactoring.guru/ru/design-patterns/facade)
+- [Observer Design Pattern](https://refactoring.guru/ru/design-patterns/observer)
+- [State Design Pattern](https://youtu.be/MGEx35FjBuo)
 
 ## Installation
 - `git clone https://github.com/bakhtiyor/design-patterns design-patterns`
@@ -14,4 +15,6 @@
 - `php example/[name-of-file.php]` 
 
 ## Credit
-All examples are copied from https://refactoring.guru/ru/design-patterns
+ 
+- [Design Pattern Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
+- [Design Pattern Guide](https://refactoring.guru/ru/design-patterns)
