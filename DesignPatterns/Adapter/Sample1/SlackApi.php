@@ -1,6 +1,6 @@
 <?php
 
-namespace Adapter;
+namespace Adapter\Sample1;
 
 /**
  * Адаптируемый класс – некий полезный класс, несовместимый с целевым

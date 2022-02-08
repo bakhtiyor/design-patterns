@@ -1,6 +1,6 @@
 <?php
 
-namespace Adapter;
+namespace Adapter\Sample1;
 
 /**
  * Вот пример существующего класса, который следует за целевым интерфейсом.

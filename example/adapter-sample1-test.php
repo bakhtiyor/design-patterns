@@ -1,10 +1,10 @@
 <?php
 require_once 'vendor/autoload.php';
 
-use Adapter\EmailNotification;
-use Adapter\Notification;
-use Adapter\SlackApi;
-use Adapter\SlackNotification;
+use Adapter\Sample1\EmailNotification;
+use Adapter\Sample1\Notification;
+use Adapter\Sample1\SlackApi;
+use Adapter\Sample1\SlackNotification;
 
 /**
  * Клиентский код работает с классами, которые следуют Целевому интерфейсу.

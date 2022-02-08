@@ -1,5 +1,5 @@
 <?php
-namespace Adapter;
+namespace Adapter\Sample1;
 
 /**
  * Целевой интерфейс предоставляет интерфейс, которому следуют классы вашего

@@ -1,6 +1,6 @@
 <?php
 
-namespace Adapter;
+namespace Adapter\Sample1;
 
 /**
  * Адаптер – класс, который связывает Целевой интерфейс и Адаптируемый класс.
