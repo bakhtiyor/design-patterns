@@ -1,5 +1,5 @@
 <?php
-namespace Factory;
+namespace Factory\Sample1;
 
 /**
  * Создатель объявляет фабричный метод, который может быть использован вместо

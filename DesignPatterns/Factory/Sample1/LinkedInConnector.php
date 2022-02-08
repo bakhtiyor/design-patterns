@@ -1,6 +1,6 @@
 <?php
 
-namespace Factory;
+namespace Factory\Sample1;
 
 /**
  * А этот Конкретный Продукт реализует API LinkedIn.

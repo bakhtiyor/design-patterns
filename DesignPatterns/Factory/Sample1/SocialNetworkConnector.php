@@ -1,6 +1,6 @@
 <?php
 
-namespace Factory;
+namespace Factory\Sample1;
 
 /**
  * Интерфейс Продукта объявляет поведения различных типов продуктов.

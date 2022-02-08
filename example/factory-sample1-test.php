@@ -1,9 +1,9 @@
 <?php
 require_once 'vendor/autoload.php';
 
-use Factory\FacebookPoster;
-use Factory\LinkedInPoster;
-use Factory\SocialNetworkPoster;
+use Factory\Sample1\FacebookPoster;
+use Factory\Sample1\LinkedInPoster;
+use Factory\Sample1\SocialNetworkPoster;
 
 /**
  * Клиентский код может работать с любым подклассом SocialNetworkPoster, так как

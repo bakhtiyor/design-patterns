@@ -1,6 +1,6 @@
 <?php
 
-namespace Factory;
+namespace Factory\Sample1;
 
 /**
  * Этот Конкретный Создатель поддерживает Facebook. Помните, что этот класс
