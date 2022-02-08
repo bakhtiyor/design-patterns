@@ -7,6 +7,7 @@
 - [Facade Design Pattern](https://refactoring.guru/ru/design-patterns/facade)
 - [Observer Design Pattern](https://refactoring.guru/ru/design-patterns/observer)
 - [State Design Pattern](https://youtu.be/MGEx35FjBuo)
+- [Bridge Design Pattern](https://youtu.be/9jIgSsIfh_8)
 
 ## Installation
 - `git clone https://github.com/bakhtiyor/design-patterns design-patterns`
