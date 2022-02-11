@@ -9,17 +9,22 @@ An analogy to an algorithm is a cooking recipe: both have clear steps to achieve
 
 ## Implemented Design Patterns
 
-- Creational patterns - These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+- **Creational patterns** - These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
     - [Factory Design Pattern - [Sample 1]](https://refactoring.guru/ru/design-patterns/factory-method)
     - [Factory Design Pattern - [Sample 2]](https://youtu.be/ub0DXaeV6hA)
     - [Singleton Design Pattern](https://refactoring.guru/ru/design-patterns/singleton)
     - [Prototype Design Pattern](https://refactoring.guru/ru/design-patterns/prototype)
-- Structural patterns - These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
+    - [Builder Design Pattern](https://youtu.be/9XnsOpjclUg)
+  
+
+- **Structural patterns** - These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
     - [Adapter Design Pattern - [Sample 1]](https://refactoring.guru/ru/design-patterns/adapter)
     - [Adapter Design Pattern - [Sample 2]](https://youtu.be/qG286LQM6BU)
     - [Bridge Design Pattern](https://youtu.be/9jIgSsIfh_8)
     - [Facade Design Pattern](https://refactoring.guru/ru/design-patterns/facade)
-- Behavioral patterns - These patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
+
+- **Behavioral patterns** - These patterns are concerned with algorithms and the assignment of responsibilities between objects.
   - [Iterator Design Pattern](https://refactoring.guru/ru/design-patterns/iterator)
   - [Observer Design Pattern](https://refactoring.guru/ru/design-patterns/observer)
   - [State Design Pattern](https://youtu.be/MGEx35FjBuo)
