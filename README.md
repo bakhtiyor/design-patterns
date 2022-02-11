@@ -13,6 +13,7 @@ An analogy to an algorithm is a cooking recipe: both have clear steps to achieve
     - [Factory Design Pattern - [Sample 1]](https://refactoring.guru/ru/design-patterns/factory-method)
     - [Factory Design Pattern - [Sample 2]](https://youtu.be/ub0DXaeV6hA)
     - [Singleton Design Pattern](https://refactoring.guru/ru/design-patterns/singleton)
+    - [Prototype Design Pattern](https://refactoring.guru/ru/design-patterns/prototype)
 - Structural patterns - These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
     - [Adapter Design Pattern - [Sample 1]](https://refactoring.guru/ru/design-patterns/adapter)
     - [Adapter Design Pattern - [Sample 2]](https://youtu.be/qG286LQM6BU)
