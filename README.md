@@ -10,6 +10,7 @@ An analogy to an algorithm is a cooking recipe: both have clear steps to achieve
 ## Implemented Design Patterns
 
 - **Creational patterns** - These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+    - [Abstract Factory Design Pattern](https://youtu.be/xbjAsdAK4xQ)
     - [Factory Design Pattern - [Sample 1]](https://refactoring.guru/ru/design-patterns/factory-method)
     - [Factory Design Pattern - [Sample 2]](https://youtu.be/ub0DXaeV6hA)
     - [Singleton Design Pattern](https://refactoring.guru/ru/design-patterns/singleton)
