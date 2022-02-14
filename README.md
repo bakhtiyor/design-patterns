@@ -10,19 +10,23 @@ An analogy to an algorithm is a cooking recipe: both have clear steps to achieve
 ## Implemented Design Patterns
 
 - **Creational patterns** - These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
-    - [Abstract Factory Design Pattern -[Sample 1]](https://refactoring.guru/ru/design-patterns/abstract-factory)
-    - [Abstract Factory Design Pattern -[Sample 2]](https://youtu.be/xbjAsdAK4xQ)
-    - [Factory Design Pattern - [Sample 1]](https://refactoring.guru/ru/design-patterns/factory-method)
-    - [Factory Design Pattern - [Sample 2]](https://youtu.be/ub0DXaeV6hA)
+    - Abstract Factory Design Pattern
+      - [Sample 1](https://refactoring.guru/ru/design-patterns/abstract-factory)
+      - [Sample 2](https://youtu.be/xbjAsdAK4xQ)
+    - Factory Design Pattern
+      - [Sample 1](https://refactoring.guru/ru/design-patterns/factory-method)
+      - [Sample 2](https://youtu.be/ub0DXaeV6hA)
     - [Singleton Design Pattern](https://refactoring.guru/ru/design-patterns/singleton)
     - [Prototype Design Pattern](https://refactoring.guru/ru/design-patterns/prototype)
     - [Builder Design Pattern](https://youtu.be/9XnsOpjclUg)
   
 
 - **Structural patterns** - These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
-    - [Adapter Design Pattern - [Sample 1]](https://refactoring.guru/ru/design-patterns/adapter)
-    - [Adapter Design Pattern - [Sample 2]](https://youtu.be/qG286LQM6BU)
+    - Adapter Design Pattern
+      - [Sample 1](https://refactoring.guru/ru/design-patterns/adapter)
+      - [Sample 2](https://youtu.be/qG286LQM6BU)
     - [Bridge Design Pattern](https://youtu.be/9jIgSsIfh_8)
+    - [Composite Design Pattern](https://refactoring.guru/ru/design-patterns/composite)
     - [Facade Design Pattern](https://refactoring.guru/ru/design-patterns/facade)
 
 
