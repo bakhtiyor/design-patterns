@@ -1,6 +1,6 @@
 <?php
 
-namespace AbstractFactory;
+namespace AbstractFactory\Sample2;
 
 class UFOEnemyShip extends EnemyShip
 {

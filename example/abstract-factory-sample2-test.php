@@ -1,6 +1,6 @@
 <?php
 
-use AbstractFactory\UFOEnemyShipBuilding;
+use AbstractFactory\Sample2\UFOEnemyShipBuilding;
 
 require_once 'vendor/autoload.php';
 

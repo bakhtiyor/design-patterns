@@ -1,6 +1,6 @@
 <?php
 
-namespace AbstractFactory;
+namespace AbstractFactory\Sample2;
 
 // This factory uses the EnemyShipFactory interface
 // to create very specific UFO Enemy Ship
@@ -10,17 +10,18 @@ namespace AbstractFactory;
 // being ESWeapon and ESEngine
 
 // The returned object specifies a specific weapon & engine
-class UFOBossEnemyShipFactory implements EnemyShipFactory
+
+class UFOEnemyShipFactory implements EnemyShipFactory
 {
     // Defines the weapon object to associate with the ship
     public function addESGun(): ESWeapon
     {
-        return new ESUFOBossGun(); // Specific to Boss UFO
+        return new ESUFOGun(); // Specific to regular UFO
     }
 
     // Defines the engine object to associate with the ship
     public function addESEngine(): ESEngine
     {
-        return new ESUFOBossEngine(); // Specific to Boss UFO
+        return new ESUFOEngine(); // Specific to regular UFO
     }
 }

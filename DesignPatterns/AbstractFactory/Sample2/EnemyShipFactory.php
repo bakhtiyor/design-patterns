@@ -1,6 +1,6 @@
 <?php
 
-namespace AbstractFactory;
+namespace AbstractFactory\Sample2;
 
 // With an Abstract Factory Pattern you won't
 // just build ships, but also all of the components

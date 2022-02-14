@@ -1,6 +1,6 @@
 <?php
 
-namespace AbstractFactory;
+namespace AbstractFactory\Sample2;
 
 // Any part that implements the interface ESWeapon can replace that part in any ship
 interface ESWeapon{
